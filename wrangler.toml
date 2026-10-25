@@ -1,0 +1,8 @@
+name = "nagi-api"
+main = "worker.js"
+compatibility_date = "2023-10-25"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "nagi-spa-db"
+database_id = "26faa248-866f-4184-a20b-b61b0b6ab141"
